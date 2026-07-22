@@ -323,7 +323,7 @@ class TestFeishuExecApproval:
 
 
 # ===========================================================================
-# send_update_prompt — interactive card with buttons
+# send_update_prompt - interactive card with buttons
 # ===========================================================================
 
 class TestFeishuUpdatePrompt:
